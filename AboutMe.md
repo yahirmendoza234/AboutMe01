@@ -10,10 +10,10 @@
 - Graduate May 2025
 - *_Southern Indiana Career & Technical Center_*
 
-## Hobbies
+### Hobbies
 I play the saxophone and play soccer on my free time
 
-## Volunteer Work
+### Volunteer Work
 ***_None_***
 ## Quote By Person of Influence
 ![Elon Musk](https://github.com/yahirmendoza234/AboutMe01/assets/146846009/83afa8a5-068a-4de3-96b4-31ce898e781b)
